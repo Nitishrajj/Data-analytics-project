@@ -3,7 +3,7 @@ import mysql.connector
 # Define the MySQL connection parameters
 host = 'localhost'  # Replace with your MySQL server's hostname or IP address
 user = 'root'  # Replace with your MySQL username
-password = 'Believe@raj25'  # Replace with your MySQL password
+password = 'yourpassword'  # Replace with your MySQL password
 database = 'my_new_database'  # Replace with your database name
 
 # Connect to the MySQL server and select the database
